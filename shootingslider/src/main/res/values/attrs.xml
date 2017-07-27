@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShootingSlider">
+        <attr name="ssLineColor" format="color" type="integer" />
+        <attr name="ssPointColor" format="color" type="integer" />
+        <attr name="ssSoundIconColor" format="color" type="integer" />
+        <attr name="ssPointSize" format="dimension" />
+        <attr name="ssLineSize" format="dimension" />
+        <attr name="ssSoundIconVisible" format="boolean" />
+        <attr name="ssNightmareMode" format="boolean" />
+    </declare-styleable>
+</resources>
