@@ -1,6 +1,7 @@
 # ShootingSlider
 
-![ZoomHeaderViewPager Demo](screen/demo1.gif)
+
+![Demo](demo/demo1.gif)
 
 # Usage
 
