@@ -23,7 +23,8 @@
         custom:ssPointColor="@color/colorAccent"
         custom:ssPointSize="15dp"
         custom:ssSoundIconColor="@color/colorPrimaryDark"
-        custom:ssSoundIconVisible="false"/>
+        custom:ssSoundIconVisible="true"
+        custom:ssNightmareMode="false"/>
 
 
 </LinearLayout>
