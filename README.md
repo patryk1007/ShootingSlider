@@ -1,5 +1,9 @@
 # ShootingSlider
+We are very pleased to present Shooting Slider, which is probably the worst Android slider ever made.
 
+If you think it's user-friendly, please check nightmare mode.
+
+  Enjoy! :)
 
 ![Demo](demo/demo1.gif)
 
